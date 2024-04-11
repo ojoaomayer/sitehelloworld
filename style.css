@@ -1,0 +1,28 @@
+*{
+    background-color: rgba(48,80,80,255);
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.line{
+    background-color: gray;
+    width: 1800px;
+    height: 2px;
+}
+.text{
+    font-family: monospace;
+    font-size: 10px;
+    color: white;
+}
+.bottom{
+    margin-top: 10px;
+    color: white;
+}
+.title{
+    font-family: monospace;
+    color: orange;
+    font-size: 18px;
+}
